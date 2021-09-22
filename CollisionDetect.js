@@ -43,7 +43,7 @@ function creature(x, y, w, h, direction, speed, name) {
 	}
 }
 
-var numcreatures = 100;
+var numcreatures = 50;
 var creatures = [];
 var randw;
 var randh;
